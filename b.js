@@ -1,3 +1,5 @@
 console.log('this is aa')
 
-let new = 'a'
+let new1 = 'a'
+
+console.log(new1)
